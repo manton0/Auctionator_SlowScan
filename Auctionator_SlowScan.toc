@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Auctionator - Slow Scan
+## Notes: Adds a page-by-page slow scan to Auctionator for servers where the full scan (GetAll) does not work.
+## Version: 1.0.0
+## Author: SlowScan
+## Dependencies: Auctionator, Auctionator_Price_Database
+
+libs\LibAuctionScan-1.0\Load.xml
+Auctionator_SlowScan.lua
