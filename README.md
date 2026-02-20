@@ -14,11 +14,10 @@ A page-by-page auction house scanning addon for the **Ascension** private server
 
 ## Installation
 
-1. Download the newest version under **Code > Download ZIP** [Download](https://github.com/manton0/Auctionator_SlowScan/archive/refs/heads/main.zip) 
-2. Extract the ZIP content into your `Interface/AddOns` folder
-3. Make sure the folder is called `Auctionator_SlowScan`
-4. Ensure **Auctionator** and **Auctionator_Price_Database** are also installed (required dependencies)
-5. Start your client and enjoy
+1. Download the latest release from the [Releases page](https://github.com/manton0/Auctionator_SlowScan/releases/latest)
+2. Extract the ZIP into your `Interface/AddOns` folder
+3. Ensure **Auctionator** and **Auctionator_Price_Database** are also installed (required dependencies)
+4. Start your client and enjoy
 
 ## Usage
 
